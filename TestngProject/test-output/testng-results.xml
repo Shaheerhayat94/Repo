@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12086" started-at="2021-10-14T09:30:09 PDT" finished-at="2021-10-14T09:30:21 PDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12086" started-at="2021-10-14T09:30:09 PDT" finished-at="2021-10-14T09:30:21 PDT">
+      <class name="com.training.test.account.TC10">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.training.test.account.TC10@1a8a8f7c]" name="beforeTest" is-config="true" duration-ms="2698" started-at="2021-10-14T09:30:09 PDT" finished-at="2021-10-14T09:30:12 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="usermenudropdown6()[pri:0, instance:com.training.test.account.TC10@1a8a8f7c]" name="usermenudropdown6" duration-ms="9095" started-at="2021-10-14T09:30:12 PDT" finished-at="2021-10-14T09:30:21 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usermenudropdown6 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.training.test.account.TC10@1a8a8f7c]" name="teardown" is-config="true" duration-ms="257" started-at="2021-10-14T09:30:21 PDT" finished-at="2021-10-14T09:30:21 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.training.test.account.TC10 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
